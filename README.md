@@ -28,3 +28,6 @@
 [干货 | 如何快速完成DLL劫持，实现权限维持，重启上线 ](https://mp.weixin.qq.com/s/W5ouifHLu-S6CFU-on5fXg)  [内容图片存档](https://github.com/mstxq17/SecurityArticleLogger/blob/main/README.assets/image-20210215004417447.png)
 
 [权限维持之DLL劫持](https://mp.weixin.qq.com/s/P0Vsa5ydTMHWl5NNbxIWUw)
+
+[D/Invoke Syscall](https://mp.weixin.qq.com/s/tSy6yNS26Lw9LmJZzmxt4g)
+

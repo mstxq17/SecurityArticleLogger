@@ -19,7 +19,9 @@
 
 
 
+## PHP相关
 
+[Yii框架反序列化RCE利用链分析](https://mp.weixin.qq.com/s/dZNkPToBaU1BcrFjqNZOGA)
 
 
 
@@ -30,4 +32,24 @@
 [权限维持之DLL劫持](https://mp.weixin.qq.com/s/P0Vsa5ydTMHWl5NNbxIWUw)
 
 [D/Invoke Syscall](https://mp.weixin.qq.com/s/tSy6yNS26Lw9LmJZzmxt4g)
+
+
+
+## 漏洞挖掘相关
+
+[浅谈如何入门游戏漏洞挖掘](https://mp.weixin.qq.com/s/tRQVxGtKdR169Ieq95VoQw)
+
+
+
+## 渗透测试相关
+
+[渗透测试中常见的小TIPS总结和整理](https://mp.weixin.qq.com/s/grhxGsTNtQt0gVjycoUk7g)
+
+
+
+## 工作流相关
+
+[比虚拟机更轻量，比 Docker 和 WSL 更简单的 Linux 环境](https://mp.weixin.qq.com/s/613UN5mOFQBMIPsf_jQXmg)
+
+
 

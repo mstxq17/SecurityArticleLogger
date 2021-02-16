@@ -11,7 +11,7 @@
 
 2.[攻击者如何使用Kerberos Silver Ticket来利用系统 ](https://adsecurity.org/?p=2011)  [内容图片存档](https://github.com/mstxq17/SecurityArticleLogger/blob/main/README.assets/image-20210213215741850.png)
 
-
+3.[红队技巧：基于反向代理的水坑攻击](https://payloads.online/archivers/2021-02-16/1)
 
 ## Java相关
 

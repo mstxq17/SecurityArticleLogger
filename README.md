@@ -5,13 +5,21 @@
 
 
 
-## 红队相关
+## 红队与域渗透相关
 
 1.[2021.2.13-域渗透之滥用SPN mappings](https://mp.weixin.qq.com/s/AI0DoMTWAsEypPLS3wUWsw)   [内容图片存档](https://github.com/mstxq17/SecurityArticleLogger/blob/main/README.assets/canvas.png)
 
 2.[攻击者如何使用Kerberos Silver Ticket来利用系统 ](https://adsecurity.org/?p=2011)  [内容图片存档](https://github.com/mstxq17/SecurityArticleLogger/blob/main/README.assets/image-20210213215741850.png)
 
 3.[红队技巧：基于反向代理的水坑攻击](https://payloads.online/archivers/2021-02-16/1)
+
+4.[一文理解 Windows 身份验证原理](https://mp.weixin.qq.com/s/3wY0K9yH71UzqOWtGucbOg)
+
+5.[红队之浅谈基于Windows telemetry的权限维持](https://mp.weixin.qq.com/s/-1nM1PotbfHPXtdXxq7JxQ)
+
+6.[域用户密码爆破研究](https://mp.weixin.qq.com/s/sLdFOjmgiDQ5RK2XN4X8wQ)
+
+
 
 ## Java相关
 
@@ -22,6 +30,8 @@
 ## PHP相关
 
 [Yii框架反序列化RCE利用链分析](https://mp.weixin.qq.com/s/dZNkPToBaU1BcrFjqNZOGA)
+
+[Laravel8反序列化POP链分析挖掘](https://www.anquanke.com/post/id/231079)
 
 
 

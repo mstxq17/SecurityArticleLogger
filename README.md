@@ -19,6 +19,14 @@
 
 6.[域用户密码爆破研究](https://mp.weixin.qq.com/s/sLdFOjmgiDQ5RK2XN4X8wQ)
 
+7.[红队技巧-网络钓鱼 ](https://mp.weixin.qq.com/s/DIY-Q4GhCVRm0Cp4r3BPkw)
+
+8.[域渗透-SID History权限维持及域信任攻击](https://mp.weixin.qq.com/s/bo79i7cZ80Dolas7teQD2g)
+
+9.[Windows内网协议学习LDAP篇之组策略 ](https://mp.weixin.qq.com/s/51o055_T-PFyg6cjofCkBA)
+
+10.[Tailoring Cobalt Strike on Target](https://blog.xpnsec.com/tailoring-cobalt-strike-on-target/)
+
 
 
 ## Java相关
@@ -32,6 +40,12 @@
 [Yii框架反序列化RCE利用链分析](https://mp.weixin.qq.com/s/dZNkPToBaU1BcrFjqNZOGA)
 
 [Laravel8反序列化POP链分析挖掘](https://www.anquanke.com/post/id/231079)
+
+[CVE-2021-3129：Laravel远程代码执行复现分析](https://mp.weixin.qq.com/s/pXcdaW62VaUd16DIXqvauQ)
+
+[Laravel Debug RCE| ftp 被动模式攻击fastcgi复现](https://mp.weixin.qq.com/s/NSqgDoI4GTG-PSeNTREabA)
+
+
 
 
 
@@ -62,4 +76,8 @@
 [比虚拟机更轻量，比 Docker 和 WSL 更简单的 Linux 环境](https://mp.weixin.qq.com/s/613UN5mOFQBMIPsf_jQXmg)
 
 
+
+## 自动化审计相关
+
+[GitHub官方代码扫描工具初体验—你好，CodeQL ](https://mp.weixin.qq.com/s/sgBNNJfs5eAxHJfQUVh5dg)
 

@@ -27,7 +27,7 @@
 
 10.[Tailoring Cobalt Strike on Target](https://blog.xpnsec.com/tailoring-cobalt-strike-on-target/)
 
-
+11.[魔改CobaltStrike：二开及后门生成分析](https://mp.weixin.qq.com/s/C3cu6bNWtxsi95I0wMCCyQ)
 
 ## Java相关
 
@@ -56,6 +56,8 @@
 [权限维持之DLL劫持](https://mp.weixin.qq.com/s/P0Vsa5ydTMHWl5NNbxIWUw)
 
 [D/Invoke Syscall](https://mp.weixin.qq.com/s/tSy6yNS26Lw9LmJZzmxt4g)
+
+
 
 
 

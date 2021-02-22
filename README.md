@@ -29,6 +29,8 @@
 
 11.[魔改CobaltStrike：二开及后门生成分析](https://mp.weixin.qq.com/s/C3cu6bNWtxsi95I0wMCCyQ)
 
+12.[]()
+
 ## Java相关
 
 [Apache Shiro 两种姿势绕过认证分析（CVE-2020-17523](https://mp.weixin.qq.com/s/MEoqMjGkifnIn4MedluCHw)  [内容存档](https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=64810ac0-851f-4397-87f0-b0904063eb77&channel=copylink&shardId=s14&ownerId=18477792)
@@ -64,6 +66,8 @@
 ## 漏洞挖掘相关
 
 [浅谈如何入门游戏漏洞挖掘](https://mp.weixin.qq.com/s/tRQVxGtKdR169Ieq95VoQw)
+
+[记一次逻辑漏洞挖掘](https://xz.aliyun.com/t/9189)
 
 
 

@@ -69,6 +69,10 @@
 
 [记一次逻辑漏洞挖掘](https://xz.aliyun.com/t/9189)
 
+[SRC资产收集的方法总结](https://nosec.org/home/detail/4456.html)
+
+
+
 
 
 ## 渗透测试相关

@@ -59,7 +59,7 @@
 
 [D/Invoke Syscall](https://mp.weixin.qq.com/s/tSy6yNS26Lw9LmJZzmxt4g)
 
-
+[X86 Shellcode Obfuscation - Part 1](https://breakdev.org/x86-shellcode-obfuscation-part-1/)
 
 
 

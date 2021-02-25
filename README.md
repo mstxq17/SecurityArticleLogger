@@ -29,11 +29,11 @@
 
 11.[魔改CobaltStrike：二开及后门生成分析](https://mp.weixin.qq.com/s/C3cu6bNWtxsi95I0wMCCyQ)
 
-12.[]()
-
 ## Java相关
 
 [Apache Shiro 两种姿势绕过认证分析（CVE-2020-17523](https://mp.weixin.qq.com/s/MEoqMjGkifnIn4MedluCHw)  [内容存档](https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=64810ac0-851f-4397-87f0-b0904063eb77&channel=copylink&shardId=s14&ownerId=18477792)
+
+[Spring Security 实战干货：OAuth2登录获取Token的核心逻辑](https://mp.weixin.qq.com/s/zdTBdSVunqwVGx-spHjLjw)
 
 
 
@@ -72,6 +72,10 @@
 [SRC资产收集的方法总结](https://nosec.org/home/detail/4456.html)
 
 
+
+## 逆向相关
+
+[0基础手把手入坑CTF逆向(2)——静态分析学习](https://mp.weixin.qq.com/s/SIxzUPuiazi7fBo1wwBnZw)
 
 
 

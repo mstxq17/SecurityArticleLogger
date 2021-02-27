@@ -29,6 +29,18 @@
 
 11.[魔改CobaltStrike：二开及后门生成分析](https://mp.weixin.qq.com/s/C3cu6bNWtxsi95I0wMCCyQ)
 
+12.[红队策略：隐藏Windows服务](https://mp.weixin.qq.com/s/lbeW71mNdZy0a9qcVrmnTw)
+
+13.[ Bypass cobaltstrike beacon config scan](https://mp.weixin.qq.com/s/fhcTTWV4Ddz4h9KxHVRcnw)
+
+14.[红队之浅谈基于Windows telemetry的权限维持](https://mp.weixin.qq.com/s/-1nM1PotbfHPXtdXxq7JxQ)
+
+15.[利用GPO(组策略对象)批量控制域内主机 ](https://mp.weixin.qq.com/s/inf_wl_qay2ftZxAR3gQng)
+
+16.[windows域环境下认证和攻击初识](https://mp.weixin.qq.com/s/fKFN3WovkifmiPRrP4sSJg)
+
+
+
 ## Java相关
 
 [Apache Shiro 两种姿势绕过认证分析（CVE-2020-17523](https://mp.weixin.qq.com/s/MEoqMjGkifnIn4MedluCHw)  [内容存档](https://static.app.yinxiang.com/embedded-web/profile/#/join?guid=64810ac0-851f-4397-87f0-b0904063eb77&channel=copylink&shardId=s14&ownerId=18477792)
@@ -47,7 +59,23 @@
 
 [Laravel Debug RCE| ftp 被动模式攻击fastcgi复现](https://mp.weixin.qq.com/s/NSqgDoI4GTG-PSeNTREabA)
 
+[记一次从源代码泄漏到后台获取webshell的过程](https://mp.weixin.qq.com/s/dZtvAYwBSX-abpjl5XWb3Q)
 
+
+
+## Python相关
+
+[用 Python 写出这样的进度条，刷新了我对进度条的认知 ](https://mp.weixin.qq.com/s/JKuyPR6LoOq3RSyfdKJePQ)
+
+
+
+
+
+## Linux系统相关
+
+[Linux PAM后门：窃取ssh密码及自定义密码登录](https://mp.weixin.qq.com/s/M8chPphMprAK56-ScTQ-Qg)
+
+[Linux反弹shell解决乱码问题 ](https://mp.weixin.qq.com/s/dJxZ0o0ArplybNaX3ffNNA)
 
 
 
@@ -61,6 +89,26 @@
 
 [X86 Shellcode Obfuscation - Part 1](https://breakdev.org/x86-shellcode-obfuscation-part-1/)
 
+[DLL代理加载shellcod用于免杀，维权等等](https://mp.weixin.qq.com/s/XFppenDlXcEp-FDuIwzWRA)
+
+[常见的windows下无文件落地攻击手法](https://mp.weixin.qq.com/s/LD_I0yovRO8MIwjhEe488g)
+
+[利用SilentProcessExit机制dump内存](https://mp.weixin.qq.com/s/izadSHbzvOPYODHfXEWI2Q)
+
+[Cobalt Strike Powershell 过360+Defender等杀软上线](https://mp.weixin.qq.com/s/TtKEnmUbtVMSqBCgrSj2Qw)
+
+[远控木马白加黑劫持 dll反射注入分析 ](https://mp.weixin.qq.com/s/SINCH29WtWg9mAmsr7fTiQ)
+
+[免杀简述1(花指令/改特征码/shellcode加载器)](https://mp.weixin.qq.com/s/voELmW6KpQa3mC9O7cAQvA)
+
+[对一篇反沙箱文章的分析学习小记](https://mp.weixin.qq.com/s/-o1OKRDoa0E8PKe3y3x-dQ)
+
+[利用命名管道进行权限提升](https://mp.weixin.qq.com/s/604GdD9Z9y9Ms7eu1gN0Yg)
+
+[测试免杀过卡巴斯基和window defender ](https://mp.weixin.qq.com/s/EYNGBMHmSptXRxMBMjEgdw)
+
+[免杀360全家桶测试 ](https://mp.weixin.qq.com/s/jwP4XcaHQv4r-vnU-MSpXQ)
+
 
 
 ## 漏洞挖掘相关
@@ -71,11 +119,21 @@
 
 [SRC资产收集的方法总结](https://nosec.org/home/detail/4456.html)
 
+[Burp插件 | 未授权检测/敏感参数/信息提取](https://mp.weixin.qq.com/s/ajB1zXQ2nmIA_E7DINKa0Q)
+
+[快速判断sql注入点是否支持load_file ](https://mp.weixin.qq.com/s/Zlq5t3d4ItHeL9Psb1sohw)
+
+
+
 
 
 ## 逆向相关
 
 [0基础手把手入坑CTF逆向(2)——静态分析学习](https://mp.weixin.qq.com/s/SIxzUPuiazi7fBo1wwBnZw)
+
+[通过CreckMe学习IDA使用的一些技巧](https://mp.weixin.qq.com/s/oVU_glvzh7xK1G2E0owwUQ)
+
+
 
 
 
@@ -88,6 +146,8 @@
 ## 工作流相关
 
 [比虚拟机更轻量，比 Docker 和 WSL 更简单的 Linux 环境](https://mp.weixin.qq.com/s/613UN5mOFQBMIPsf_jQXmg)
+
+
 
 
 

@@ -39,6 +39,8 @@
 
 16.[windows域环境下认证和攻击初识](https://mp.weixin.qq.com/s/fKFN3WovkifmiPRrP4sSJg)
 
+17.[RIFT: Analysing a Lazarus Shellcode Execution Method](https://research.nccgroup.com/2021/01/23/rift-analysing-a-lazarus-shellcode-execution-method/)
+
 
 
 ## Java相关

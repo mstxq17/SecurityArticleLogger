@@ -41,6 +41,8 @@
 
 17.[RIFT: Analysing a Lazarus Shellcode Execution Method](https://research.nccgroup.com/2021/01/23/rift-analysing-a-lazarus-shellcode-execution-method/)
 
+18.[Alaris | A Protective Loader](https://sevrosecurity.com/2020/10/14/alaris-a-protective-loader/)
+
 
 
 ## Java相关

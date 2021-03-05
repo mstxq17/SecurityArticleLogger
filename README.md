@@ -63,7 +63,7 @@
 
 28.[恶意代码分析之反射型DLL注入](https://mp.weixin.qq.com/s/-YycM3OFhYBVJxJU7RL1oA)
 
-29.
+29.[域内窃取哈希一些技术,类似钓鱼的操作](https://mp.weixin.qq.com/s/y1ehsvJEBkZ-qynNrOlAuA)
 
 
 
@@ -198,6 +198,8 @@
 [业务漏洞挖掘笔记](https://mp.weixin.qq.com/s/Gk6z5vDIsSFqp4W860BidQ)
 
 [反射XSS和CORS漏洞组合拳](https://mp.weixin.qq.com/s/peCWN4bi0YOL5t1LINNKwQ)
+
+[云服务器 AccessKey 密钥泄露](https://mp.weixin.qq.com/s/RkQ7x6vcP9DVvyQ1jv5Akg)
 
 
 

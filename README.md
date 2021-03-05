@@ -75,6 +75,8 @@
 
 [VMware vCenter RCE (CVE-2021-21972) 漏洞复现与 Exp 编写](https://mp.weixin.qq.com/s/2pvaQborwMM8UHnWS_CeXA)
 
+[Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
+
 
 
 
@@ -167,6 +169,10 @@
 
 [ShellCode生成框架](https://mp.weixin.qq.com/s/REpgSMXFgOdUX8I-_gejHg)
 
+[DLL劫持右键菜单实现持久化](https://mp.weixin.qq.com/s/BAWRgXllmM7ZkfzG_t1rHA)
+
+[Windows 单行命令获取shell](https://mp.weixin.qq.com/s/Uo5XgrBFA9igYNUDpRGeTQ?from=timeline&isappinstalled=0&scene=2&clicktime=1614952743&enterid=1614952743)
+
 
 
 ## 漏洞挖掘相关
@@ -191,6 +197,8 @@
 
 [业务漏洞挖掘笔记](https://mp.weixin.qq.com/s/Gk6z5vDIsSFqp4W860BidQ)
 
+[反射XSS和CORS漏洞组合拳](https://mp.weixin.qq.com/s/peCWN4bi0YOL5t1LINNKwQ)
+
 
 
 ## 溯源相关
@@ -211,7 +219,7 @@
 
 [Cobalt Strike4.0远控木马分析](https://mp.weixin.qq.com/s/Sv0lR4G2eQf4_L8W4CqRYw)
 
-
+[某APP逆向分析与通讯解密](https://mp.weixin.qq.com/s/ndP9n0I6nFgGi0xSOwBb-Q)
 
 
 

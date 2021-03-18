@@ -107,7 +107,7 @@
 
 [Python 爬虫：单线程、多线程和协程的爬虫性能对比](https://mp.weixin.qq.com/s/LdP9GfYViWdrLGuBMQ-9rw)
 
-
+[漏洞组合拳 - 攻击分布式节点](https://rickgray.me/2016/09/22/attacking-distributed-nodes-by-message-queue-injection/)
 
 
 
@@ -200,6 +200,10 @@
 [反射XSS和CORS漏洞组合拳](https://mp.weixin.qq.com/s/peCWN4bi0YOL5t1LINNKwQ)
 
 [云服务器 AccessKey 密钥泄露](https://mp.weixin.qq.com/s/RkQ7x6vcP9DVvyQ1jv5Akg)
+
+[RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html)
+
+
 
 
 

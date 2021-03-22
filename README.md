@@ -173,6 +173,8 @@
 
 [Windows 单行命令获取shell](https://mp.weixin.qq.com/s/Uo5XgrBFA9igYNUDpRGeTQ?from=timeline&isappinstalled=0&scene=2&clicktime=1614952743&enterid=1614952743)
 
+[srclient-dll-hijacking](https://blog.vonahi.io/srclient-dll-hijacking/)
+
 
 
 ## 漏洞挖掘相关
@@ -203,7 +205,7 @@
 
 [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html)
 
-
+[github-actions-write-access](https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html)
 
 
 

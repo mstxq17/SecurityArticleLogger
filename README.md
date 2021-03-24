@@ -207,6 +207,8 @@
 
 [github-actions-write-access](https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html)
 
+[How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b)
+
 
 
 ## 溯源相关

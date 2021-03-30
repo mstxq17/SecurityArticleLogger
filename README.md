@@ -175,6 +175,8 @@
 
 [srclient-dll-hijacking](https://blog.vonahi.io/srclient-dll-hijacking/)
 
+[early-bird-apc-queue-code-injection](https://www.ired.team/offensive-security/code-injection-process-injection/early-bird-apc-queue-code-injection)
+
 
 
 ## 漏洞挖掘相关

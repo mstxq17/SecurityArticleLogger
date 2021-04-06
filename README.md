@@ -65,6 +65,8 @@
 
 29.[域内窃取哈希一些技术,类似钓鱼的操作](https://mp.weixin.qq.com/s/y1ehsvJEBkZ-qynNrOlAuA)
 
+30.[Finding Metasploit & Cobalt Strike URLs](https://videos.didierstevens.com/2021/03/21/finding-metasploit-cobalt-strike-urls/)
+
 
 
 ## Java相关
@@ -210,6 +212,12 @@
 [github-actions-write-access](https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html)
 
 [How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b)
+
+[Facebook account takeover due to a bypass of allowed callback URLs in the OAuth flow](https://ysamm.com/?p=646)
+
+[Facebook account takeover due to a wide platform bug in ajaxpipe responses](https://ysamm.com/?p=654)
+
+
 
 
 

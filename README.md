@@ -119,6 +119,14 @@
 
 
 
+
+
+## GO 语言相关
+
+[writing-network-templates-with-nuclei](https://blog.projectdiscovery.io/writing-network-templates-with-nuclei/)
+
+
+
 ## Linux系统相关
 
 [Linux PAM后门：窃取ssh密码及自定义密码登录](https://mp.weixin.qq.com/s/M8chPphMprAK56-ScTQ-Qg)

@@ -67,6 +67,22 @@
 
 30.[Finding Metasploit & Cobalt Strike URLs](https://videos.didierstevens.com/2021/03/21/finding-metasploit-cobalt-strike-urls/)
 
+31.[CobaltStrike 上线自动权限维持插件](https://mp.weixin.qq.com/s/GTldV9PG26i9Vdv51FOfwg)
+
+32.[投稿 | 2021最新免杀入门混淆加密方法揭秘（附视频）](https://mp.weixin.qq.com/s/sw9j638CWkubPIg4FiqQIw)
+
+33.[没有不上钩的鱼儿(上)_常用钓鱼手法](https://mp.weixin.qq.com/s/n-4QODrD9YlNmnQIM4mT7w)
+
+34.[Shellcode 隐写到像素 RGB 免杀上线到 CobaltStrike](https://mp.weixin.qq.com/s/SwzgK6P-ActQ8n0NqOmDlg)
+
+
+
+## 蓝队相关
+
+[零信任，绝情得令人窒息！](https://mp.weixin.qq.com/s/eCyzciBa4ZUZQvPGp5RnaA)
+
+[【热剩饭】获取代理池背后攻击者的真实IP](https://mp.weixin.qq.com/s/qEEO-1lyFbYS7Saa2L-n0A)
+
 
 
 ## Java相关
@@ -78,6 +94,20 @@
 [VMware vCenter RCE (CVE-2021-21972) 漏洞复现与 Exp 编写](https://mp.weixin.qq.com/s/2pvaQborwMM8UHnWS_CeXA)
 
 [Java 中 RMI、JNDI、LDAP、JRMP、JMX、JMS那些事儿（上）](https://paper.seebug.org/1091/)
+
+[weblogic cve漏洞捡漏指南](https://mp.weixin.qq.com/s/HlG_Jd8zu0dR4rQw25hfDg)
+
+[某weblogic的T3反序列化0day分析](https://mp.weixin.qq.com/s/OxeYufM-ZX_SdbV5zjWV7A)
+
+[java执行shellcode的几种方法](https://mp.weixin.qq.com/s/p74WQwOfkSSZlsuRDke8jw)
+
+[漫画:AOP 面试造火箭事件始末](https://mp.weixin.qq.com/s/8p1aUh-AMJLANpdkVkdBfg)
+
+[在命令行下运行swing图形化应用](https://mp.weixin.qq.com/s/AfQIivDqk9F1NVQjzEbrFQ)
+
+[最新X远OA系列漏洞分析](https://mp.weixin.qq.com/s/0AqdfTrZUVrwTMbKEKresg)
+
+[工作四年，分享50个让你代码更好的小建议](https://mp.weixin.qq.com/s/GLRtkP-Jrv3yCaVfqET6dw)
 
 
 
@@ -99,6 +129,10 @@
 
 [锐捷SSL VPN 越权访问漏洞复现](https://mp.weixin.qq.com/s/WElrjPnCNNA79COFtPX0vQ)
 
+[代码审计之eyouCMS最新版getshell漏洞](https://mp.weixin.qq.com/s/JBzQ9xz7kVOm0Ll3yT-IRQ)
+
+[Yii反序列化漏洞复现到新利用链发现](https://mp.weixin.qq.com/s/KCGGMBxmW5LSIey5nN7BDg)
+
 
 
 
@@ -110,6 +144,34 @@
 [Python 爬虫：单线程、多线程和协程的爬虫性能对比](https://mp.weixin.qq.com/s/LdP9GfYViWdrLGuBMQ-9rw)
 
 [漏洞组合拳 - 攻击分布式节点](https://rickgray.me/2016/09/22/attacking-distributed-nodes-by-message-queue-injection/)
+
+[一个已经存在 10 年，却被严重低估的库](https://mp.weixin.qq.com/s/uL0Ij2DNBR778ls75r8UfQ)
+
+[一小段Python代码，破解加密zip文件的密码](https://mp.weixin.qq.com/s/2db4JBWamaH2EtxRVn_6iA)
+
+[卧槽，一个牛逼的Python 可视化库：PyG2Plot](https://mp.weixin.qq.com/s/RWiTX-6-f29jPXG_nK0eXA)
+
+[总结90条写Python程序的建议](https://mp.weixin.qq.com/s/EcKfC-QnPc1wmsE2RmQNbg)
+
+[5 分钟，带你快速入门 Django 文件上传下载](https://mp.weixin.qq.com/s/1Q0H4ryCeQ-bHBuma7sdyw)
+
+[python flask 内存马](https://mp.weixin.qq.com/s/GRwEBS1UqsWA3MBvukypNg)
+
+[一日一技：Python多线程的事件监控](https://mp.weixin.qq.com/s/po6wGCF_Ww8xDJKgEywZ0g)
+
+[太好了！最全的Python面向对象入门教程了，来了！](https://mp.weixin.qq.com/s/1SleQyubgdpI1sfZ5f-zhg)
+
+[在 Linux 中限制Python程序所能使用的最大内存](https://mp.weixin.qq.com/s/RDgQE3SvllMJ7jYO8O9w-w)
+
+
+
+
+
+## C#相关
+
+[使用C#开发IIS模块后门](https://mp.weixin.qq.com/s/yn-rehjJNr-hH2TdbFN9oQ)
+
+
 
 
 
@@ -189,6 +251,32 @@
 
 
 
+## 漏洞复现相关
+
+[和信下一代云桌面远程代码执行漏洞复现](https://mp.weixin.qq.com/s/k2izoeQjDnMLSj5eP0R9XQ)
+
+[收藏 | 2021某大型活动期间爆出漏洞自查清单](https://mp.weixin.qq.com/s/L9ZZfk8BMRhWTC63oMNMdg)
+
+[X友 NCCloud FS文件管理SQL注入](https://mp.weixin.qq.com/s/jb7XeLGvdyNrF1xQFsXDjA)
+
+[微信(Chrome)漏洞复现与简单分析小结](https://mp.weixin.qq.com/s/VpQ6VknuB-QOTEG6c5mRVQ)
+
+[佑友防火墙 后台命令执行漏洞 (重新开放文库啦~)](https://mp.weixin.qq.com/s/lryCPv3zDops5lVuKsYYZw)
+
+[XX星辰 天X汉马USG防火墙 逻辑缺陷漏洞 CNVD-2021-12793](https://mp.weixin.qq.com/s/un1SdjBpjhzQmgL_tpFeXQ)
+
+[飞鱼星 家用智能路由 cookie.cgi 权限绕过](https://mp.weixin.qq.com/s/ARCZIR2C40KSu8SjLMYHSw)
+
+[Coremail邮箱系统漏洞复现](https://mp.weixin.qq.com/s/FA8CXdMkUBqJeQ0xPCuWNA)
+
+[漏洞复现 | （通用0day）金和C6协同OA管理平台后台存在水平越权漏洞](https://mp.weixin.qq.com/s/gwHQVIZeMWfT8a5lBX_4WA)
+
+[FastAdmin最新RCE漏洞复现](https://mp.weixin.qq.com/s/otrH75ZjCHBQbRB7g5DdWg)
+
+
+
+
+
 ## 漏洞挖掘相关
 
 [浅谈如何入门游戏漏洞挖掘](https://mp.weixin.qq.com/s/tRQVxGtKdR169Ieq95VoQw)
@@ -225,7 +313,37 @@
 
 [Facebook account takeover due to a wide platform bug in ajaxpipe responses](https://ysamm.com/?p=654)
 
+[大力出奇迹之js文件爆破](https://mp.weixin.qq.com/s/7xkvDf1ijgIQa-V43HzwUg)
 
+[利用Github Actions自动化检测子域名劫持漏洞](https://mp.weixin.qq.com/s/rWBPPcfjhXE0dZ0Gzx05GQ)
+
+[高版本JDK下的Jolokia Realm JNDI RCE小记](https://mp.weixin.qq.com/s/Z3qP6xW504tuIQ5CJdDSPQ)
+
+[如何利用hosts碰撞技术遨游内网web系统](https://mp.weixin.qq.com/s/Yc8LahaJJP77no527nFtiA)
+
+[挖洞经验 | self-xss的进化之路](https://mp.weixin.qq.com/s/Umgyl_jOQ5PhMQZGV9eDUw)
+
+[利用火器DNS数据集进行hosts碰撞, 发现某厂商严重漏洞](https://mp.weixin.qq.com/s/bZUHmUmc9J5BHL28zY2LWw)
+
+[记一次0day挖掘](https://mp.weixin.qq.com/s/jCTCqlfEL0sX4E_4iHGzog)
+
+[挖洞经验 诡异位置的存储XSS](https://mp.weixin.qq.com/s/9CYDkd0eaOVXbsTeFqd_5g)
+
+[当你用 Dash 在阅读文档的时候，文档也正在看着你……（已修复）](https://mp.weixin.qq.com/s/vfPxiLqOVZWhFde_2fKf1Q)
+
+[一个低危CSRF漏洞的逆袭](https://mp.weixin.qq.com/s/w6V6ZdpfLJBTm9rIsxY40Q)
+
+[记一次文件上传的曲折经历](https://mp.weixin.qq.com/s/gzXVg7nvX5aWQ5gSHXdUxA)
+
+[万物皆可fuzz之Log中的敏感信息](https://mp.weixin.qq.com/s/vQfNwWaouyWBa40nHnGCMg)
+
+
+
+
+
+## CTF相关
+
+[红明谷&2021虎符线上WP](https://mp.weixin.qq.com/s/6wbW1eP4tk9IJtB4Whrr4Q)
 
 
 
@@ -249,6 +367,10 @@
 
 [某APP逆向分析与通讯解密](https://mp.weixin.qq.com/s/ndP9n0I6nFgGi0xSOwBb-Q)
 
+[破解某色情APP付费，为教育行业添砖加瓦](https://mp.weixin.qq.com/s/MZknrH3GASOHCxVHZbFuMw)
+
+
+
 
 
 ## 渗透测试相关
@@ -263,6 +385,20 @@
 
 [记一次攻防演习渗透过程](https://mp.weixin.qq.com/s/SYQYntzD0EI_TDUMg-kOgA)
 
+[记一次渗透测试，外部打点到内网](https://mp.weixin.qq.com/s/MU8PFq9MnmJSSnL3DjmpNw)
+
+[别致的上传思路导致getshell的案例](https://mp.weixin.qq.com/s/FAjD4tAYwm5s3EcmutktjA)
+
+[记一次代码审计的APP渗透](https://mp.weixin.qq.com/s/8m2-_vcRAeYAV_38MHm-pg)
+
+[记一次从企业微信到内网遨游](https://mp.weixin.qq.com/s/oTClFIvzHMLmyrkGO6wrVw)
+
+[实战 | 记一次站库分离的内网渗透](https://mp.weixin.qq.com/s/0SP8UjSWlek3DKjlSLIJcw)
+
+[实战 | 一次简单的信息收集到getshell的过程](https://mp.weixin.qq.com/s/NozsxJhSPS9q0Pg6fujXdA)
+
+
+
 
 
 ## 工作流相关
@@ -270,6 +406,20 @@
 [比虚拟机更轻量，比 Docker 和 WSL 更简单的 Linux 环境](https://mp.weixin.qq.com/s/613UN5mOFQBMIPsf_jQXmg)
 
 [两小时入门 Docker](https://mp.weixin.qq.com/s/J530g6GhVbwYTbwcl6Q-kg)
+
+[一日一技：5分钟掌握 Makefile](https://mp.weixin.qq.com/s/O2_q-anE6amGBPNQGyNlcQ)
+
+
+
+## 算法相关
+
+[用三国杀讲分布式算法，舒适了吧？](https://mp.weixin.qq.com/s/hZWZXQVTJZDPbDDyAcnDCg)
+
+
+
+## 面试相关
+
+[阿里面试官的”说一下从url输入到返回请求的过程“问的难度就是不一样！](https://mp.weixin.qq.com/s/wFtlHf3yUAfSeXcP8BEWuw)
 
 
 

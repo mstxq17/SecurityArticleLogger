@@ -273,6 +273,8 @@
 
 [FastAdmin最新RCE漏洞复现](https://mp.weixin.qq.com/s/otrH75ZjCHBQbRB7g5DdWg)
 
+[漏洞复现 | 某系统通用（0day）](https://mp.weixin.qq.com/s/TnFPPyoGr8AWlKbf0_cdDQ)
+
 
 
 
@@ -396,6 +398,8 @@
 [实战 | 记一次站库分离的内网渗透](https://mp.weixin.qq.com/s/0SP8UjSWlek3DKjlSLIJcw)
 
 [实战 | 一次简单的信息收集到getshell的过程](https://mp.weixin.qq.com/s/NozsxJhSPS9q0Pg6fujXdA)
+
+[【实战】杀猪盘SSRF到getshell](https://mp.weixin.qq.com/s/awMf1D8Hw6tRwPYuWmO4cw)
 
 
 

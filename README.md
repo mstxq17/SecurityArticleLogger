@@ -163,7 +163,7 @@
 
 [在 Linux 中限制Python程序所能使用的最大内存](https://mp.weixin.qq.com/s/RDgQE3SvllMJ7jYO8O9w-w)
 
-
+[CVE-2021-29921 – python stdlib “ipaddress” – Improper Input Validation of octal literals in python 3.8.0 thru v3.10 results in indeterminate SSRF & RFI vulnerabilities. — “ipaddress leading zeros in IPv4 address”](https://sick.codes/sick-2021-014/)
 
 
 
@@ -171,7 +171,7 @@
 
 [使用C#开发IIS模块后门](https://mp.weixin.qq.com/s/yn-rehjJNr-hH2TdbFN9oQ)
 
-
+[Weird Ways to Run Unmanaged Code in .NET](https://blog.xpnsec.com/weird-ways-to-execute-dotnet/)
 
 
 

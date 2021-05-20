@@ -339,7 +339,13 @@
 
 [万物皆可fuzz之Log中的敏感信息](https://mp.weixin.qq.com/s/vQfNwWaouyWBa40nHnGCMg)
 
+[Automating xss identification with Dalfox & Paramspider](https://infosecwriteups.com/automating-xss-identification-with-dalfox-paramspider-e14283bb7916)
 
+[Hacking a company and accessing the back-end files leading to RCE and a 4-digit bounty](http://taha.run/posts/1/)
+
+[OAuth 2.0 Hacking Simplified — Part 1 — Understanding Basics](https://infosecwriteups.com/oauth-2-0-hacking-simplified-part-1-understanding-basics-ad323cb4a05c)
+
+[How to Test Blind SQLi With Burp Suite — Practical Example](https://systemweakness.com/how-to-test-for-blind-sqli-with-burp-suite-practical-example-311b67e6574f)
 
 
 

@@ -347,6 +347,10 @@
 
 [How to Test Blind SQLi With Burp Suite — Practical Example](https://systemweakness.com/how-to-test-for-blind-sqli-with-burp-suite-practical-example-311b67e6574f)
 
+[Digging Deep Into Dom XSS](https://thexssrat.medium.com/digging-deep-into-dom-xss-9ed172876477)
+
+
+
 
 
 ## CTF相关

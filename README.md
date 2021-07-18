@@ -411,7 +411,7 @@
 
 [【实战】杀猪盘SSRF到getshell](https://mp.weixin.qq.com/s/awMf1D8Hw6tRwPYuWmO4cw)
 
-
+[渗透大型菠菜网站鸭脖](https://mp.weixin.qq.com/s/sJAyhQQvGqG-SliSGbhJNA)
 
 ## Bypass 相关
 

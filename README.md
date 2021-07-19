@@ -427,6 +427,8 @@
 
 [一日一技：5分钟掌握 Makefile](https://mp.weixin.qq.com/s/O2_q-anE6amGBPNQGyNlcQ)
 
+[Using tmux for automating interactive reverse shells](https://infosecwriteups.com/using-tmux-for-automating-interactive-reverse-shells-630260740af3)
+
 
 
 ## 算法相关

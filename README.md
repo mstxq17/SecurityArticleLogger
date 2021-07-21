@@ -413,6 +413,10 @@
 
 [渗透大型菠菜网站鸭脖](https://mp.weixin.qq.com/s/sJAyhQQvGqG-SliSGbhJNA)
 
+[某java客服系统后续代码审计 ](https://mp.weixin.qq.com/s/Alj6MQmJv9ekGzcUNiIdeg)
+
+
+
 ## Bypass 相关
 
 [Fun sql injection — mod_security bypass](https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445)

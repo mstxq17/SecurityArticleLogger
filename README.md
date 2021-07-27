@@ -75,6 +75,8 @@
 
 34.[Shellcode 隐写到像素 RGB 免杀上线到 CobaltStrike](https://mp.weixin.qq.com/s/SwzgK6P-ActQ8n0NqOmDlg)
 
+35.[Detecting Cobalt Strike Default Modules via Named Pipe Analysis](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/)
+
 
 
 ## 蓝队相关

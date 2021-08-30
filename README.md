@@ -77,7 +77,7 @@
 
 35.[Detecting Cobalt Strike Default Modules via Named Pipe Analysis](https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/)
 
-
+36.[in-memory-shellcode-decoding-to-evade-avs/](https://shells.systems/in-memory-shellcode-decoding-to-evade-avs/)
 
 ## 蓝队相关
 

@@ -79,6 +79,10 @@
 
 36.[in-memory-shellcode-decoding-to-evade-avs/](https://shells.systems/in-memory-shellcode-decoding-to-evade-avs/)
 
+37.[A deep dive into specifics around cobalt strike malleable c2 profiles and key information that is new in cobalt strike 4.4](https://blog.zsec.uk/cobalt-strike-profiles/)
+
+
+
 ## 蓝队相关
 
 [零信任，绝情得令人窒息！](https://mp.weixin.qq.com/s/eCyzciBa4ZUZQvPGp5RnaA)

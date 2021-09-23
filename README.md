@@ -359,7 +359,7 @@
 
 [Source code disclosure via exposed .git folder](Source code disclosure via exposed .git folder)
 
-
+[mXSS in support.mozilla.org](https://gccybermonks.com/posts/mxss/)
 
 
 

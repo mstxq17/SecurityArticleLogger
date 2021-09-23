@@ -453,6 +453,8 @@
 
 [GitHub官方代码扫描工具初体验—你好，CodeQL ](https://mp.weixin.qq.com/s/sgBNNJfs5eAxHJfQUVh5dg)
 
+[Apache Dubbo: All roads lead to RCE](https://securitylab.github.com/research/apache-dubbo/)
+
 
 
 ## 计算机历史与趣谈相关

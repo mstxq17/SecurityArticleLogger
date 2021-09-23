@@ -81,6 +81,8 @@
 
 37.[A deep dive into specifics around cobalt strike malleable c2 profiles and key information that is new in cobalt strike 4.4](https://blog.zsec.uk/cobalt-strike-profiles/)
 
+38.[搭建大型域环境（父域控制器、子域控制器、辅域控制器、域内主机）](https://mp.weixin.qq.com/s/2GKMFKmjCF_vht8hKl4iFw)
+
 
 
 ## 蓝队相关
@@ -354,6 +356,8 @@
 [How to Test Blind SQLi With Burp Suite — Practical Example](https://systemweakness.com/how-to-test-for-blind-sqli-with-burp-suite-practical-example-311b67e6574f)
 
 [Digging Deep Into Dom XSS](https://thexssrat.medium.com/digging-deep-into-dom-xss-9ed172876477)
+
+[Source code disclosure via exposed .git folder](Source code disclosure via exposed .git folder)
 
 
 

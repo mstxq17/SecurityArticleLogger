@@ -181,6 +181,8 @@
 
 [Weird Ways to Run Unmanaged Code in .NET](https://blog.xpnsec.com/weird-ways-to-execute-dotnet/)
 
+[C# Process Class Primer](https://offensivedefence.co.uk/posts/csharp-process-class/)
+
 
 
 ## Nim 语言相关

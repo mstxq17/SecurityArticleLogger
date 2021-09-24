@@ -83,6 +83,8 @@
 
 38.[搭建大型域环境（父域控制器、子域控制器、辅域控制器、域内主机）](https://mp.weixin.qq.com/s/2GKMFKmjCF_vht8hKl4iFw)
 
+39.[SleepyCrypt: Encrypting a running PE image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
+
 
 
 ## 蓝队相关

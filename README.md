@@ -261,6 +261,8 @@
 
 [early-bird-apc-queue-code-injection](https://www.ired.team/offensive-security/code-injection-process-injection/early-bird-apc-queue-code-injection)
 
+[DLL Hijacking via URL files](https://insert-script.blogspot.com/2018/05/dll-hijacking-via-url-files.html)
+
 
 
 ## 漏洞复现相关

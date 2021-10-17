@@ -263,7 +263,7 @@
 
 [DLL Hijacking via URL files](https://insert-script.blogspot.com/2018/05/dll-hijacking-via-url-files.html)
 
-
+[bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams](https://www.mdsec.co.uk/2020/12/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/)
 
 ## 漏洞复现相关
 

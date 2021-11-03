@@ -289,7 +289,11 @@
 
 [漏洞复现 | 某系统通用（0day）](https://mp.weixin.qq.com/s/TnFPPyoGr8AWlKbf0_cdDQ)
 
+## WAF 绕过相关
 
+[Evading All Web-Application Firewalls XSS Filters](https://mazinahmed.net/blog/evading-all-web-application-firewalls/)
+
+[Using HTML Attribute Separators for Bypassing WAF XSS Filters](https://mazinahmed.net/blog/html-attribute-separators/)
 
 
 

@@ -367,7 +367,7 @@
 
 [Digging Deep Into Dom XSS](https://thexssrat.medium.com/digging-deep-into-dom-xss-9ed172876477)
 
-[Source code disclosure via exposed .git folder](Source code disclosure via exposed .git folder)
+[Source code disclosure via exposed .git folder](https://medium.com/@roshancp/source-code-disclosure-via-exposed-git-folder-d22919c590a2)
 
 [mXSS in support.mozilla.org](https://gccybermonks.com/posts/mxss/)
 
@@ -485,3 +485,10 @@
 
 [Windows 2012 Server Network Security](https://www.sciencedirect.com/book/9781597499583/windows-2012-server-network-security#book-description)
 
+
+
+##  CTF相关
+
+[2021年全国大学生网络安全邀请赛暨第七届“东华杯“上海市大学生网络安全大赛Writeup](https://www.shangmayuan.com/a/c8953bdafb9b4b3797843df0.html)
+
+[CTF | 2021 东华杯 大学生网络安全邀请赛 WriteUp](https://miaotony.xyz/2021/11/02/CTF_2021donghua/)

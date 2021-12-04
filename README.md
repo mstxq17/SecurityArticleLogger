@@ -85,6 +85,7 @@
 
 39.[SleepyCrypt: Encrypting a running PE image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
 
+40.[CobaltStrike Stager Utilizing Floating Point Math](https://medium.com/walmartglobaltech/cobaltstrike-stager-utilizing-floating-point-math-9bc13f9b9718)
 
 
 ## 蓝队相关

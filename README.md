@@ -492,3 +492,6 @@
 [2021年全国大学生网络安全邀请赛暨第七届“东华杯“上海市大学生网络安全大赛Writeup](https://www.shangmayuan.com/a/c8953bdafb9b4b3797843df0.html)
 
 [CTF | 2021 东华杯 大学生网络安全邀请赛 WriteUp](https://miaotony.xyz/2021/11/02/CTF_2021donghua/)
+
+[Actuator 未授权访问之heapdump利用](http://www.pingtaimeng.com/article/detail/id/1869452)
+

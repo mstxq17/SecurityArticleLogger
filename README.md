@@ -374,7 +374,7 @@
 
 [fofa之cnvd之5000w通用产品的收集](https://www.freebuf.com/articles/web/292788.html)
 
-
+[利用两个开源工具批量刷edusrc](https://www.bugku.com/thread-3810-1-1.htm)
 
 ## CTF相关
 

@@ -372,6 +372,8 @@
 
 [mXSS in support.mozilla.org](https://gccybermonks.com/posts/mxss/)
 
+[fofa之cnvd之5000w通用产品的收集](https://www.freebuf.com/articles/web/292788.html)
+
 
 
 ## CTF相关

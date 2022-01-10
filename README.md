@@ -176,6 +176,8 @@
 
 [CVE-2021-29921 – python stdlib “ipaddress” – Improper Input Validation of octal literals in python 3.8.0 thru v3.10 results in indeterminate SSRF & RFI vulnerabilities. — “ipaddress leading zeros in IPv4 address”](https://sick.codes/sick-2021-014/)
 
+[自动化工作之watchdog](https://wwj718.github.io/post/%E5%B7%A5%E5%85%B7/rpa-watchdog/#%E5%92%8Cwatchmedo)
+
 
 
 ## C#相关

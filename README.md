@@ -87,6 +87,52 @@
 
 40.[CobaltStrike Stager Utilizing Floating Point Math](https://medium.com/walmartglobaltech/cobaltstrike-stager-utilizing-floating-point-math-9bc13f9b9718)
 
+41.[域安全｜非约束委派攻击 & Exchange 2013的安装](https://mp.weixin.qq.com/s/3woYDMdqqldLDWiq3dsXnw)
+
+42.[域内最新提权漏洞原理深入分析](https://mp.weixin.qq.com/s/L_wSDyryEG6-9XydwitH2w)
+
+43.[域管与域控定位思路合集](https://mp.weixin.qq.com/s/HqICoJYsdL2kNz8xr17cgw)
+
+44.[记一次实战红队行动「下」域渗透篇](https://mp.weixin.qq.com/s/S3StFGbls-b3D3NuiGD-oQ)
+
+45.[一文读懂Kerberos认证流程](https://mp.weixin.qq.com/s/tXqKHbygwyE-TgVLWkYQjw)
+
+46.[【干货】CS4.4绕过vultr特征检测修改checksum8算法，超详细过程小白理解](https://mp.weixin.qq.com/s/YeLCMPKpkwE_IW9KoMUnaA)
+
+47.[红蓝对抗 | 企业级攻防演练钓鱼行动解决方案(下)](https://mp.weixin.qq.com/s/f93VbwkxnEMb6zZDuSd84w)
+
+48.[一次域渗透测试过程](https://mp.weixin.qq.com/s/EdA30Vc-p1IjBwuyEASUIw)
+
+49.[利用资源约束委派进行的提权攻击分析](https://mp.weixin.qq.com/s/wSoGj28gNpzHp-xeJGYqCQ)
+
+50.[Windows委派](https://mp.weixin.qq.com/s/EZKnta_09x2WHeU2ZPV6xw)
+
+
+
+## 内网渗透相关
+
+[【VK技术分享】frp安全实践](https://mp.weixin.qq.com/s/upUhAFEGWX5Dj1gwuE_mAA)
+
+[悄然上线的爆破与未授权检测](https://mp.weixin.qq.com/s/R8CFnsGRmwyM1K8uCQl0tg)
+
+[黑客断网攻击与监听演示！](https://mp.weixin.qq.com/s/k1_pheBhsg3Ml0TnzKDsDA)
+
+[一次完整的渗透测试](https://mp.weixin.qq.com/s/9V9tLP7DE-vVMMu5xNOnNw)
+
+[从公有云到渗透进内网漫游](https://mp.weixin.qq.com/s/Gu-JyWwMdHFiGvv4ySz8QQ)
+
+[记一次实战通过CVE-2021-21972拿下内网](https://mp.weixin.qq.com/s/Uo726o7bm-jPE1cHDx2jFw)
+
+[记一次金融行业的攻防演练](https://mp.weixin.qq.com/s/esENbfayjJ9nEnwkzIe5ew)
+
+[内网渗透 | 横向移动中MSTSC的密码获取](https://mp.weixin.qq.com/s/lxNifPgvZPyfjObo1iYRZg)
+
+[红蓝对抗之隐蔽通信应用及防御](https://mp.weixin.qq.com/s/vvvPQweC0TZRFootoJPQbA)
+
+
+
+
+
 
 ## 蓝队相关
 
@@ -120,7 +166,7 @@
 
 [工作四年，分享50个让你代码更好的小建议](https://mp.weixin.qq.com/s/GLRtkP-Jrv3yCaVfqET6dw)
 
-
+[通过代码执行修改Shiro密钥](https://mp.weixin.qq.com/s/E6eVw6uItS-iT2OOR5bkhA)
 
 
 
@@ -178,6 +224,20 @@
 
 [自动化工作之watchdog](https://wwj718.github.io/post/%E5%B7%A5%E5%85%B7/rpa-watchdog/#%E5%92%8Cwatchmedo)
 
+[扫描性能分析案例(二)](https://mp.weixin.qq.com/s/iSUTEr0J3sJe9Gmi__Z5Xw)
+
+[利用Python去除图片水印，太神奇了！](https://mp.weixin.qq.com/s/kSZKKyesJFNumxy4Bdzycw)
+
+[50条有趣的Python一行代码，建议收藏！](https://mp.weixin.qq.com/s/xkqwgd1Xl-eWD3SfNjpMNQ)
+
+[使用 for 循环遍历 Python 字典的 3 种方法 !](https://mp.weixin.qq.com/s/b0fRpF3OHzFZNf1PA1wvsw)
+
+[Python 微服务框架 Nameko 初体验](https://mp.weixin.qq.com/s/wE7iMSP_F0A52iiwcGACcw)
+
+[如何评价说 Python 是最快的语言？](https://mp.weixin.qq.com/s/ckk1Dfsbfsh9qWvpoNzFfw)
+
+
+
 
 
 ## C#相关
@@ -188,7 +248,9 @@
 
 [C# Process Class Primer](https://offensivedefence.co.uk/posts/csharp-process-class/)
 
+[DotNet内存马-HttpListener](https://mp.weixin.qq.com/s/zsPPkhCZ8mhiFZ8sAohw6w)
 
+[[最近漏洞预警]一步一步教你漏洞挖掘之CVE-2021-34992-C1 CMS Json.Net反序列化漏洞分析与利用链构造](https://mp.weixin.qq.com/s/lA-EFvCFrAX2n0bvAfE7-g)
 
 ## Nim 语言相关
 
@@ -202,6 +264,48 @@
 
 [writing-network-templates-with-nuclei](https://blog.projectdiscovery.io/writing-network-templates-with-nuclei/)
 
+[Go 排查内存占用过高问题](https://mp.weixin.qq.com/s/HgptrNJ-2i5MVMTLTZHjnQ)
+
+[为什么 Go 占用那么多的虚拟内存？](https://mp.weixin.qq.com/s/L4CfzuAaBc_z5-uMn6MYwg)
+
+
+
+## 开发运维相关
+
+[云化分布式自动化渗透测试平台 - 架构笔记](https://mp.weixin.qq.com/s/HmPLUNDbasuzGHS4K1IG5Q)
+
+[Nginx 配置中一个不起眼字符 "/" 的巨大作用，失之毫厘谬以千里](https://mp.weixin.qq.com/s/2F472gXwGK5RDwj1dkDAAA)
+
+
+
+## 免杀及C2相关
+
+[“考古”之cs4.2内存特征绕过](https://mp.weixin.qq.com/s/5HYELRGm6XClvJ1ZHBHVKg)
+
+[免杀基础教学（下卷）](https://mp.weixin.qq.com/s/5rpMLCDNECW6cg5c8QUGjA)
+
+[杀软浅析](https://mp.weixin.qq.com/s/Qp4yL_WCRu68JXwEJb4GCA)
+
+[红队技巧-绕过杀软dump-Lsass内存](https://mp.weixin.qq.com/s/QFRCMX14WJwMfM4_AEzpMg)
+
+[修改1个字节绕过BeaconEye](https://mp.weixin.qq.com/s/6kRg0_BmXYExy4_-pEAcLw)
+
+[利用 WMI and COM 绕过windows defender](https://mp.weixin.qq.com/s/aWaumBrN5JeRhCx7PXLjCw)
+
+[干货 | 免杀沙箱调试与反调试实战](https://mp.weixin.qq.com/s/BTfD6hPURSvTkYBz-txJyQ)
+
+[免杀杂谈-Golang篇](https://mp.weixin.qq.com/s/XNUQZof-hz512_6B-LFfJg)
+
+[使用 Cobalt Strike 的 Beacon 对象文件自定义 DLL 注入](https://mp.weixin.qq.com/s/mYaeVFJ5t-n2DuRko-drUA)
+
+[绕过360进程防护执行Powershell](https://mp.weixin.qq.com/s/-BrIKdihKDYbpiJFb4SdFw)
+
+[「钓鱼攻击」免杀钓鱼上线捆绑利器](https://mp.weixin.qq.com/s/XZFIv3IOc7U_UVukScTnPw)
+
+[使用 avcleaner 对项目进行源码级免杀](https://mp.weixin.qq.com/s/5U4YnWYGrHJnAlnHB0uq6A)
+
+
+
 
 
 ## Linux系统相关
@@ -213,6 +317,16 @@
 [CVE-2021-3156 Sudo溢出漏洞 复现](https://mp.weixin.qq.com/s/v7mot0nCvTmsCqJhBBncuQ)
 
 [用了这么多年 curl，竟然不知道还有这种用法？！](https://mp.weixin.qq.com/s/LGrar4EwaQ_VvgzWtWeGZA)
+
+[奇技淫巧  无需覆写实现Centos计划任务RCE](https://wx.zsxq.com/mweb/views/topicdetail/topicdetail.html?topic_id=418451118544158&inviter_id=51114888284544&share_from=ShareToWechat&keyword=JURJmEQ)
+
+[Linux 环境变量配置的 6 种方法，建议收藏！](https://mp.weixin.qq.com/s/-A74NUbDm5Qi4TjKSNLN-g)
+
+[干货 | Linux下权限维持实战](https://mp.weixin.qq.com/s/Pn0hUjRoAxV8SPBGgh0gGA)
+
+[Linux服务器上监控网络带宽的18个常用命令](https://mp.weixin.qq.com/s/HmO-f2QoJqe835xOhzJTcQ)
+
+
 
 
 
@@ -268,6 +382,12 @@
 
 [bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams](https://www.mdsec.co.uk/2020/12/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/)
 
+[从XP源码泄露看nopac漏洞](https://mp.weixin.qq.com/s/Ar8u_gXh2i3GEcqdhOD8wA)
+
+[Windows内核驱动~进程隐藏实现](https://mp.weixin.qq.com/s/q_RLxbs_BU1SKglFvNnvQg)
+
+
+
 ## 漏洞复现相关
 
 [和信下一代云桌面远程代码执行漏洞复现](https://mp.weixin.qq.com/s/k2izoeQjDnMLSj5eP0R9XQ)
@@ -297,6 +417,16 @@
 [Evading All Web-Application Firewalls XSS Filters](https://mazinahmed.net/blog/evading-all-web-application-firewalls/)
 
 [Using HTML Attribute Separators for Bypassing WAF XSS Filters](https://mazinahmed.net/blog/html-attribute-separators/)
+
+[URL confusion vulnerabilities in the wild: Exploring parser inconsistencies](https://snyk.io/blog/url-confusion-vulnerabilities/?utm_campaign=Blog&utm_medium=Social&utm_source=Twitter-Organic&utm_content=url-confusion-vulnerabilities)
+
+[干货|基于HTTP协议的WAF绕过技巧](https://mp.weixin.qq.com/s/OcIaKAgZquQnf7_-TnTcwQ)
+
+[Upload Bypass BT WAF](https://mp.weixin.qq.com/s/Xuh_oDb1STmgoPeKYeF3fQ)
+
+[某锁/某神/某狗的计算机名认证绕过](https://mp.weixin.qq.com/s/YyNeLRXgspuC4R_dNY4pCA)
+
+[阿里云入侵检测挑战赛writeup](https://mp.weixin.qq.com/s/GoChb6VIM8Knh3Dm7Iyknw)
 
 
 
@@ -378,9 +508,17 @@
 
 [利用两个开源工具批量刷edusrc](https://www.bugku.com/thread-3810-1-1.htm)
 
-## CTF相关
+[对象存储桶配置不当可查看桶列表漏洞解析](https://mp.weixin.qq.com/s/LsXSgbpKXqsrPpN-siE0JA)
 
-[红明谷&2021虎符线上WP](https://mp.weixin.qq.com/s/6wbW1eP4tk9IJtB4Whrr4Q)
+[安卓免ROOT抓包HTTPS](https://mp.weixin.qq.com/s/Eo2lLg8HfMHI5AsZo6xBAw)
+
+[使用burp插件captcha-killer识别图片验证码(跳坑记)](https://mp.weixin.qq.com/s/FraR2wmGeWjX2KoNc1H2YA)
+
+[信息收集之“骚”姿势](https://mp.weixin.qq.com/s/JTv4UVhInvcYqQWbT3OKCg)
+
+[SQL注入点检测-文本内容相似度](https://mp.weixin.qq.com/s/iX8_C53QKGCL0XjqdrqbPQ)
+
+[一次任意密码重置漏洞挖洞剖析](https://mp.weixin.qq.com/s/-Zovtp2JRjoEXqRyn-klQA)
 
 
 
@@ -390,11 +528,27 @@
 
 [记一次反制追踪溯本求源](https://mp.weixin.qq.com/s/xW2u4s8xCTnLCkpDoK5Yzw)
 
+[渗透中快速搭建代理池](https://mp.weixin.qq.com/s/WPtgncwcG0VuROxitnThRg)
+
+[劳动节 | 说说代理池](https://mp.weixin.qq.com/s/ERU3L2WIMiPNNdTTX164Og)
+
+[利用云函数搭建免费代理池](https://mp.weixin.qq.com/s/p9rsbBTQxd0ieqW8HE8hqw)
+
+[浅谈云函数的利用面](https://mp.weixin.qq.com/s/VrGZFJR33Uu9WEYukVjmNQ)
+
+[反序列化小子捕获器-反制ysoserial](https://mp.weixin.qq.com/s/Ww_IxNLXI0KWZYERGwu3bg)
+
+[云函数的三种常见利用](https://mp.weixin.qq.com/s/Ec6J-2zCi18UJLftzS5VBw)
+
+[网络攻防｜如何让自己的CobaltStrike服务器隐匿（一）](https://mp.weixin.qq.com/s/1QgqG8VFMtj8Tw6_F3lDkQ)
+
+[端内钓鱼，反制蚁剑](https://mp.weixin.qq.com/s/WNv9nPWvKudwimtYTd1zDQ)
 
 
 
 
-## 逆向相关
+
+## 逆向破解相关
 
 [0基础手把手入坑CTF逆向(2)——静态分析学习](https://mp.weixin.qq.com/s/SIxzUPuiazi7fBo1wwBnZw)
 
@@ -406,7 +560,7 @@
 
 [破解某色情APP付费，为教育行业添砖加瓦](https://mp.weixin.qq.com/s/MZknrH3GASOHCxVHZbFuMw)
 
-
+[小试牛刀 | 记录一次对Confluence插件的破解](https://mp.weixin.qq.com/s/67php7jsv9hsotew6Ol6VQ)
 
 
 
@@ -440,6 +594,16 @@
 
 [某java客服系统后续代码审计 ](https://mp.weixin.qq.com/s/Alj6MQmJv9ekGzcUNiIdeg)
 
+[记一次从任意文件下载到getshell](https://mp.weixin.qq.com/s/Sc3mT1vjgKv8PCwEXx2FFw)
+
+[对某 DedeCMS 二开系统全局变量追加漏洞利用](https://mp.weixin.qq.com/s/wE5df1CvuA4tvXYDxQPgjQ)
+
+[校园内网平台的一次授权渗透测试](https://mp.weixin.qq.com/s/LarDe1a18j87eQVV8j7Z3w)
+
+[Webshell不能执行命令常见原因](https://mp.weixin.qq.com/s/SDyLYYaGE8P2ZZVWH8RCjg)
+
+[记一次卑微的渗透测试](https://mp.weixin.qq.com/s/D-dFxBDxQ0y9uCkJUWp2IQ)
+
 
 
 ## Bypass 相关
@@ -472,11 +636,17 @@
 
 
 
-## 自动化审计相关
+## 自动化代码审计相关
 
 [GitHub官方代码扫描工具初体验—你好，CodeQL ](https://mp.weixin.qq.com/s/sgBNNJfs5eAxHJfQUVh5dg)
 
 [Apache Dubbo: All roads lead to RCE](https://securitylab.github.com/research/apache-dubbo/)
+
+[利用CodeQL分析并挖掘Log4j漏洞](https://mp.weixin.qq.com/s/JYco8DysQNszMohH6zJEGw)
+
+[log4j2的codeql规则](https://mp.weixin.qq.com/s/nn8v3s-G7R8l3xF4NF3jYw)
+
+
 
 
 
@@ -492,11 +662,21 @@
 
 
 
-##  CTF相关
+## 会议论文相关
+
+[bh-eu-13-XML-data-osipov-slides -XXE漏洞利用详解](https://paper.bobylive.com/Meeting_Papers/BlackHat/Europe-2013/bh-eu-13-XML-data-osipov-slides.pdf)
+
+
+
+## CTF相关
+
+[红明谷&2021虎符线上WP](https://mp.weixin.qq.com/s/6wbW1eP4tk9IJtB4Whrr4Q)
 
 [2021年全国大学生网络安全邀请赛暨第七届“东华杯“上海市大学生网络安全大赛Writeup](https://www.shangmayuan.com/a/c8953bdafb9b4b3797843df0.html)
 
 [CTF | 2021 东华杯 大学生网络安全邀请赛 WriteUp](https://miaotony.xyz/2021/11/02/CTF_2021donghua/)
 
 [Actuator 未授权访问之heapdump利用](http://www.pingtaimeng.com/article/detail/id/1869452)
+
+[那些年一起打过的CTF - Laravel 任意用户登陆Tricks分析](https://mp.weixin.qq.com/s/iC_g-_kxXhkrrekDDTcS9w)
 

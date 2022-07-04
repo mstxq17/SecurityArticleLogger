@@ -107,6 +107,10 @@
 
 50.[Windows委派](https://mp.weixin.qq.com/s/EZKnta_09x2WHeU2ZPV6xw)
 
+51.[利用OpenSSL对反弹shell进行流量加密](https://mp.weixin.qq.com/s/fQ6zczaQGsN9b_SP3Gr6lg)
+
+
+
 
 
 ## 内网渗透相关
@@ -167,6 +171,14 @@
 [工作四年，分享50个让你代码更好的小建议](https://mp.weixin.qq.com/s/GLRtkP-Jrv3yCaVfqET6dw)
 
 [通过代码执行修改Shiro密钥](https://mp.weixin.qq.com/s/E6eVw6uItS-iT2OOR5bkhA)
+
+[java-socket长连接demo体验](https://mp.weixin.qq.com/s/Xpo5b6t1JvxkzoV-zLGNZw)
+
+[你见过哪些目瞪口呆的 Java 代码技巧？](https://mp.weixin.qq.com/s/3q4vXMIcmk0-BMPx4QiWIA)
+
+[红队第2篇：区分Spring与Struts2框架的几种新方法](https://mp.weixin.qq.com/s/cmkTMw_QS8o1wMsRd0E0XQ)
+
+[构造java探测class反序列化gadget](https://mp.weixin.qq.com/s/KncxkSIZ7HVXZ0iNAX8xPA)
 
 
 
@@ -236,7 +248,15 @@
 
 [如何评价说 Python 是最快的语言？](https://mp.weixin.qq.com/s/ckk1Dfsbfsh9qWvpoNzFfw)
 
+[一日一技：如何让自己的工具函数在Python全局可用？](一日一技：如何让自己的工具函数在Python全局可用？)
 
+[写 Python 脚本，一定要加上这个！](https://mp.weixin.qq.com/s/Vkr1L6Rs4Jp68iw21QZQvA)
+
+[30 段极简 Python 代码，拿来即用！](https://mp.weixin.qq.com/s/LKuMRCowB-jYDN-t617ZzA)
+
+[如何让你的 Python 代码经得起时间检验？](https://mp.weixin.qq.com/s/4HN1tWEHWnyYxH4vGu_ULA)
+
+[Python 的八个实用的 “无代码” 特性](https://mp.weixin.qq.com/s/BWnDlGHUmICuNwWsxFT-wA)
 
 
 
@@ -268,6 +288,12 @@
 
 [为什么 Go 占用那么多的虚拟内存？](https://mp.weixin.qq.com/s/L4CfzuAaBc_z5-uMn6MYwg)
 
+[使用 Go 和 Web 技术构建桌面应用程序](https://mp.weixin.qq.com/s/sm9n5ATV72VtzRI-P8ZC5Q)
+
+[Golang 常见设计模式之单例模式](https://mp.weixin.qq.com/s/mqFNEyUEYbZjzLtnj1DgXw)
+
+[Golang 简洁架构实战](https://mp.weixin.qq.com/s/Xzlt_WcdcfLWhofafY3c6g)
+
 
 
 ## 开发运维相关
@@ -275,6 +301,12 @@
 [云化分布式自动化渗透测试平台 - 架构笔记](https://mp.weixin.qq.com/s/HmPLUNDbasuzGHS4K1IG5Q)
 
 [Nginx 配置中一个不起眼字符 "/" 的巨大作用，失之毫厘谬以千里](https://mp.weixin.qq.com/s/2F472gXwGK5RDwj1dkDAAA)
+
+[Git 不能只会 pull 和 push，试试这5条提高效率的命令吧！](https://mp.weixin.qq.com/s/bNa-f6o3b-YjiNeRW6rCYA)
+
+[滚蛋吧，正则表达式！](https://mp.weixin.qq.com/s/MP2a-EXTpuyZ03PpedyA_A)
+
+[使用Rsync同步备份两个web服务器文件](https://mp.weixin.qq.com/s/fHJTkZZIdGIOHQN3_Xk_wQ)
 
 
 
@@ -304,7 +336,11 @@
 
 [使用 avcleaner 对项目进行源码级免杀](https://mp.weixin.qq.com/s/5U4YnWYGrHJnAlnHB0uq6A)
 
+[匿名信使：木马隐蔽通信浅谈](https://mp.weixin.qq.com/s/X_qPqmpx6uGAs6Y84rV8Jg)
 
+[干货 | 从Certutil下载绕过探究常见杀软的绕过思路](https://mp.weixin.qq.com/s/te1ptC1XaTF4_no1hJ69Sw)
+
+[利用DNS A记录执行Shellcode](https://mp.weixin.qq.com/s/9lMV0-xA2hXBIM9vskG3nw)
 
 
 
@@ -428,6 +464,8 @@
 
 [阿里云入侵检测挑战赛writeup](https://mp.weixin.qq.com/s/GoChb6VIM8Knh3Dm7Iyknw)
 
+[网络层绕过IDS/IPS的一些探索](https://mp.weixin.qq.com/s/QJeW7K-KThYHggWtJ-Fh3w)
+
 
 
 ## 漏洞挖掘相关
@@ -520,6 +558,16 @@
 
 [一次任意密码重置漏洞挖洞剖析](https://mp.weixin.qq.com/s/-Zovtp2JRjoEXqRyn-klQA)
 
+[记一次不平凡的企业SRC任意用户注册](https://mp.weixin.qq.com/s/xNcW_59UFYyBavOdCOjXxA)
+
+[印象笔记 价值 5000$的SSRF 案例分析](https://mp.weixin.qq.com/s/TFCh4vR5Zoh_1l5zDf5FFg)
+
+
+
+## 神器工具相关
+
+[李姐姐开源DNSLog工具eyes.sh](https://mp.weixin.qq.com/s/7aRmPMBA0C22osttGYYxnQ)
+
 
 
 ## 溯源相关
@@ -603,6 +651,22 @@
 [Webshell不能执行命令常见原因](https://mp.weixin.qq.com/s/SDyLYYaGE8P2ZZVWH8RCjg)
 
 [记一次卑微的渗透测试](https://mp.weixin.qq.com/s/D-dFxBDxQ0y9uCkJUWp2IQ)
+
+[实战 | 实战一次完整的BC网站渗透测试](https://mp.weixin.qq.com/s/wuuXuCfutisYRUxNvcoAJg)
+
+[从一个App到getshell的一次经历 | 技术精选0138](https://mp.weixin.qq.com/s/QJW13hj08R57-AM0ZpRz1g)
+
+[从弱口令到内网生产区](https://mp.weixin.qq.com/s/eiTDy5VVujnPk-4-ErYrMg)
+
+[记一次色情app代理平台一次打草惊蛇](https://mp.weixin.qq.com/s/_zNj6vGO7n_5-rGjmrZ3tA)
+
+[实战 | 记一次SSRF攻击内网的实战案例](https://mp.weixin.qq.com/s/Tvv-hAfL_nOq02ZPDJqO4g)
+
+[记录又一次实战GetShell](https://mp.weixin.qq.com/s/9KCA0XVYJ7QreWa0Ow3q5w)
+
+[记一次相当曲折的渗透经历](https://mp.weixin.qq.com/s/Vqxa9cTFuXRnNiZC3UBRBw)
+
+[实战 | 某集团渗透项目的“以洞打洞”](https://mp.weixin.qq.com/s/w9UxFT2vS23B2gU-wpJxxg)
 
 
 

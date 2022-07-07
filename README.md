@@ -180,6 +180,8 @@
 
 [构造java探测class反序列化gadget](https://mp.weixin.qq.com/s/KncxkSIZ7HVXZ0iNAX8xPA)
 
+[IDEA高效使用教程，一劳永逸！](https://mp.weixin.qq.com/s/ieg0U-M2T-ekrr0miSwuTQ)
+
 
 
 ## PHP相关

@@ -596,6 +596,12 @@
 
 
 
+## 取证相关
+
+[「王老师实操课」三种思路巧妙破解Bitlocker加密](https://xlysoft.net/detail/7-314-2889.html)
+
+
+
 
 
 ## 逆向破解相关

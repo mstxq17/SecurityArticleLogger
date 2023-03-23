@@ -109,6 +109,8 @@
 
 51.[利用OpenSSL对反弹shell进行流量加密](https://mp.weixin.qq.com/s/fQ6zczaQGsN9b_SP3Gr6lg)
 
+52.[记一次从linux打进域控](https://xz.aliyun.com/t/12193)
+
 
 
 
@@ -565,6 +567,8 @@
 [记一次不平凡的企业SRC任意用户注册](https://mp.weixin.qq.com/s/xNcW_59UFYyBavOdCOjXxA)
 
 [印象笔记 价值 5000$的SSRF 案例分析](https://mp.weixin.qq.com/s/TFCh4vR5Zoh_1l5zDf5FFg)
+
+[GPT都解决不了的Burp无用流量过滤问题](https://mp.weixin.qq.com/s/tNi2XfQ99uK7cKhwVOp6FQ)
 
 
 

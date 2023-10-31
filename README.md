@@ -113,8 +113,6 @@
 
 
 
-
-
 ## 内网渗透相关
 
 [【VK技术分享】frp安全实践](https://mp.weixin.qq.com/s/upUhAFEGWX5Dj1gwuE_mAA)
@@ -347,6 +345,16 @@
 [利用DNS A记录执行Shellcode](https://mp.weixin.qq.com/s/9lMV0-xA2hXBIM9vskG3nw)
 
 [DNS隧道原理与其流量分析(基础篇)](https://mp.weixin.qq.com/s/Hxf73WjspCUK8IriiK3CWA)
+
+[AV/EDR 完全致盲 - 清除6大内核回调实现](https://myzxcg.github.io/2023/10/AV/EDR-%E5%AE%8C%E5%85%A8%E8%87%B4%E7%9B%B2-%E6%B8%85%E9%99%A46%E5%A4%A7%E5%86%85%E6%A0%B8%E5%9B%9E%E8%B0%83%E5%AE%9E%E7%8E%B0/)
+
+[白驱动 Kill AV/EDR（下）](https://myzxcg.github.io/2023/10/%E7%99%BD%E9%A9%B1%E5%8A%A8-Kill-AV/EDR%E4%B8%8B/)
+
+[白驱动 Kill AV/EDR（上）](https://myzxcg.github.io/2023/09/%E7%99%BD%E9%A9%B1%E5%8A%A8-Kill-AV/EDR%E4%B8%8A/)
+
+[纯C重构CS Beacon - 原理详解与开发实现](https://myzxcg.github.io/2023/03/%E7%BA%AFC%E9%87%8D%E6%9E%84CS-Beacon-%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E7%8E%B0/)
+
+
 
 
 

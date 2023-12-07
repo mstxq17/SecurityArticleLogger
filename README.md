@@ -632,6 +632,8 @@
 
 [小试牛刀 | 记录一次对Confluence插件的破解](https://mp.weixin.qq.com/s/67php7jsv9hsotew6Ol6VQ)
 
+[Ghidra Basics - Identifying, Decoding and Fixing Encrypted Strings](https://embee-research.ghost.io/ghidra-basics-identifying-and-decoding-encrypted-strings/)
+
 
 
 ## 渗透测试相关

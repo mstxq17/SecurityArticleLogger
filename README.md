@@ -578,7 +578,7 @@
 
 [GPT都解决不了的Burp无用流量过滤问题](https://mp.weixin.qq.com/s/tNi2XfQ99uK7cKhwVOp6FQ)
 
-
+[PDF解析器html/XSS 实现SSRF](https://zone.huoxian.cn/d/550-pdfhtmlxss-ssrf)
 
 ## 神器工具相关
 
